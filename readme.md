@@ -1,8 +1,8 @@
 # Integrantes do grupo:
 
-[RM552671] - Willian Oliveira Dantas
-[RM554328] - João Vitor Santos
-[RM553324] - Ryan Azanha
+- [RM552671] - Willian Oliveira Dantas
+- [RM554328] - João Vitor Santos
+- [RM553324] - Ryan Azanha
 
 # Sobre o projeto:
 
