@@ -311,10 +311,12 @@ while True:
                 sys.exit()
         case 3:
             clear()
-            print(f"Boa escolha {user_cadastrado}! Segue abaixo nossas redes sociais:")
+            print(f"Segue abaixo nossas redes sociais:")
             print("")
-            print("Intagram: @techmedcompany")
-            print("LinkedIn: Techmed Company Brasil")
+            print("[RM554328] - João Santos - @jvs4nt")
+            print("[RM552671] - Willian Dantas - @danielwod_")
+            print("[RM553324] - Ryan Azanha - @ryanazanha_")
+
             print("")
 
             input("Pressione ENTER para continuar...")
