@@ -250,7 +250,7 @@ while True:
                     clear()
                     print("Para entrar em contato conosco via E-mail, basta enviar sua mensagem com seu user_cadastrado e sua dúvida no endereço abaixo:")
                     print("")
-                    print("techmed@atendimento.com")
+                    print("techmedcomp@gmail.com")
                     print("")
                     print("")
                     input("Pressione ENTER para continuar...")
